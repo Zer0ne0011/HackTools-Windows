@@ -4,7 +4,7 @@ Ferramenta apenas para Windows
 (Versão Linux será postada em breve)
 
 # Lista de Ferramentas
-NMAP - Encontrar Portas abertas e Vulnerabilidades\n
+NMAP - Encontrar Portas abertas e Vulnerabilidades
 Cariddi - Encontrar vulnerabilidades em Sites PHP
 sqlmap - Entrar em Banco de dados de sites
 subfinder - Encontrar subdomínios
