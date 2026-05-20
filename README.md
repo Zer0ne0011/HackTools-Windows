@@ -15,7 +15,9 @@ gobuster - Encontrar Diretorios Escondidos
 Baixe o zip do projeto pelo github, Logo Extraia ele na pasta de sua preferência.
 Clique com o botão esquerdo do mouse em qualquer lugar da pasta, Logo Clique em "Abrir com CMD" ou algo semelhante.
 Quando Abrir o CMD Cole o Comando:
-```powershell -ExecutionPolicy Bypass -File .\install-tools.ps1```
+``` Cmd
+powershell -ExecutionPolicy Bypass -File .\install-tools.ps1
+```
 Espera a instalação ser Concluída, Logo após Execute o arquivo principal (.exe)
 
 # Importante
