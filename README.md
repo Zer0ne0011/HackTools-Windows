@@ -30,3 +30,8 @@ Quando trabalhar com "Encontrar Subdomínios Vulneráveis"
 Se o arquivo do subdomínio tiver na mesma pasta do projeto  
 coloque apenas a nome do arquivo  
 exemplo: live.txt  
+
+# Atenção
+
+Não me responsabilizo pelos seus atos, A ferramenta foi feita com o intuito de aprendizado.  
+Use apenas se tiver permissão adequada ou ambientes controlados.
