@@ -33,5 +33,5 @@ exemplo: live.txt
 
 # Atenção
 
-Não me responsabilizo pelos seus atos, A ferramenta foi feita com o intuito de aprendizado.  
+Não me responsabilizo pelos seus atos. A ferramenta foi feita com o intuito de aprendizado.  
 Use apenas se tiver permissão adequada.
