@@ -1,6 +1,6 @@
 # HackTools-Windows
-Uma série de ferramentas que ajudam a fazer pentest/bugbounty em aplicações web.
-Ferramenta apenas para Windows 
+Uma série de ferramentas que ajudam a fazer pentest/bugbounty em aplicações web.  
+Ferramenta apenas para Windows   
 (Versão Linux será postada em breve)
 
 # Lista de Ferramentas
